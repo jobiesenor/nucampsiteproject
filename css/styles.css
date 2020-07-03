@@ -39,9 +39,3 @@ header h2 {
 .btn {
     margin-top: 4;
   }
-
-  .tab-content {
-    border: 1px solid #DDD;
-    border-top: none;
-    padding: 10px;
-}
